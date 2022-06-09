@@ -1,0 +1,5 @@
+/*
+visiting_card_spa
+(c) Igor Sapozhnikov
+@license MIT
+*/
