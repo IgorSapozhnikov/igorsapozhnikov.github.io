@@ -1,0 +1,11 @@
+/*
+Visiting Card PWA
+(c) Igor Sapozhnikov
+@license MIT
+*/
+
+/*
+visiting-card-spa
+(c) Igor Sapozhnikov
+@license MIT
+*/
